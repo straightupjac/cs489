@@ -1,0 +1,3 @@
+/Users/jaclyn/Documents/code/school/cs489/week3/output/CMakeFiles/program.dir
+/Users/jaclyn/Documents/code/school/cs489/week3/output/CMakeFiles/edit_cache.dir
+/Users/jaclyn/Documents/code/school/cs489/week3/output/CMakeFiles/rebuild_cache.dir

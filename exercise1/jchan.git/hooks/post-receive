@@ -1,0 +1,15 @@
+#!/bin/sh
+
+repository=""
+local_folder="~/Documents/code/school/cs489/exercise1"
+
+if [ -d $local_folder/staging i]; then
+    rm -rf $local_folder/staging
+fi
+
+mkdir $local_folder/staging 
+
+git clone $local_folder/jchan.git $local_folder/staging
+
+
+exit 0
